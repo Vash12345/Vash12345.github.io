@@ -1166,7 +1166,7 @@ body {
 }
 
 .item-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/mac.jpeg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
@@ -1175,19 +1175,19 @@ body {
 }
 
 .item-2 {
-  background-image: url("../img/project-2.jpg");
+  background-image: url("../img/mac2.jpeg");
 }
 
 .item-3 {
-  background-image: url("../img/project-3.jpg");
+  background-image: url("../img/mac3.jpeg");
 }
 
 .item-4 {
-  background-image: url("../img/project-4.jpg");
+  background-image: url("../img/mac4.jpeg");
 }
 
 .item-5 {
-  background-image: url("../img/project-5.jpg");
+  background-image: url("../img/mac5.jpeg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-5 {
@@ -1196,7 +1196,7 @@ body {
 }
 
 .item-6 {
-  background-image: url("../img/project-6.jpg");
+  background-image: url("../img/mac6.jpeg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-6 {
@@ -1205,31 +1205,31 @@ body {
 }
 
 .item-7 {
-  background-image: url("../img/project-7.jpg");
+  background-image: url("../img/mac7.jpeg");
 }
 
 .item-8 {
-  background-image: url("../img/project-8.jpg");
+  background-image: url("../img/mac8.jpeg");
 }
 
 .item-9 {
-  background-image: url("../img/project-9.jpg");
+  background-image: url("../img/mac9.jpeg");
 }
 
 .item-10 {
-  background-image: url("../img/project-10.jpg");
+  background-image: url("../img/mac10.jpeg");
 }
 
 .item-11 {
-  background-image: url("../img/project-11.jpg");
+  background-image: url("../img/mac11.jpeg");
 }
 
 .item-12 {
-  background-image: url("../img/project-12.jpg");
+  background-image: url("../img/mac12.jpeg");
 }
 
 .item-13 {
-  background-image: url("../img/project-13.jpg");
+  background-image: url("../img/mac13.jpeg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-13 {
@@ -1241,11 +1241,11 @@ body {
 }
 
 .item-14 {
-  background-image: url("../img/project-14.jpg");
+  background-image: url("../img/mac14.jpeg");
 }
 
 .item-15 {
-  background-image: url("../img/project-15.jpg");
+  background-image: url("../img/mac15.jpeg");
 }
 
 @media (min-width: 40em) {
@@ -1322,7 +1322,7 @@ body {
   text-align: center;
 }
 .item-inside__meta--contrast:before {
-  background-color: rgba(255, 255, 255, .3);
+  background-color: rgb(255, 255, 255);
   content: "";
   height: 100%;
   left: 0;
@@ -1350,13 +1350,13 @@ body {
 }
 
 .item-inside-1 {
-  background-image: url("../img/project-1.jpg");
-  background-position: 50% 100%;
-  background-size: 350%;
+  background-image: url("../img/alb2.jpeg");
+  background-position: 50% 30%;
+  background-size: 3500%;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min-device-pixel-ratio: 1.5) {
   .item-inside-1 {
-    background-image: url("../img/project-1h.jpg");
+    background-image: url("../img/alb.jpeg");
   }
 }
 @media (min-width: 40em) {
@@ -1366,7 +1366,7 @@ body {
 }
 
 .post-inside-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/alb1.jpeg");
 }
 
 #layout-grid:checked ~ .rk-portfolio,
@@ -1571,7 +1571,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/mac.jpeg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-1 {
@@ -1641,7 +1641,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/mac.jpeg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-1 {
